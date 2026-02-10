@@ -23,6 +23,12 @@ py -m venv venv
 
 - Créer le répertoire outputs à la racine du projet
 
+- Créer un fichier .env à la racine du projet avec comme contenu :
+
+```bash
+OPENAI_API_KEY=!!YOUR-API-KEY!!
+```
+
 ## Samples
 
 - Sample : Simple interrogation de OpenAI
