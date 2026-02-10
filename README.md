@@ -21,6 +21,8 @@ py -m venv venv
 ```
 - Mettre une clé API dans le fichier .env
 
+- Créer le répertoire outputs à la racine du projet
+
 ## Samples
 
 - Sample : Simple interrogation de OpenAI
