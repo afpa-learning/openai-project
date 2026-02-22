@@ -26,7 +26,7 @@ py -m venv venv
 - Créer un fichier .env à la racine du projet avec comme contenu :
 
 ```bash
-OPENAI_API_KEY=!!YOUR-API-KEY!!
+OPENAI_API_KEY=!!!YOUR-API-KEY!!!
 ```
 
 ## Samples
